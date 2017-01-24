@@ -1,0 +1,50 @@
+[?1000h[?1049h[?1h=[1;55r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[55;1H"C:/Users/IBM_ADMIN/workspace/StockSystemWork/.git/COMMIT_EDITMSG"<BM_ADMIN/workspace/StockSystemWork/.git/COMMIT_EDITMSG" [unix] 484L, 39032C[1;1H[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/controller/CartResources.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/controller/HomeController.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/controller/OrderController.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/controller/ProductController.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/controller/RegisterController.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/controller/StockController.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/controller/StockRestController.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/CartDao.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/CartItemDao.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/CustomerDao.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/CustomerOrderDao.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/ProductDao.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/SiteDao.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/impl/CartDaoImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/impl/CartItemDaoImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/impl/CustomerDaoImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/impl/CustomerOrderDaoImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/impl/ProductDaoImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/dao/impl/SiteDaoImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/Authorities.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/Cart.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/CartItem.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/Customer.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/CustomerOrder.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/Product.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/ProductCategory.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/ProductName.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/SAdd.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/Site.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/model/Users.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/CartItemService.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/CartService.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/CustomerOrderService.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/CustomerService.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/ProductService.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/SiteService.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/impl/CartItemServiceImpl.class[38;1Hs[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/impl/CartServiceImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/impl/CustomerOrderServiceImpll[41;1H.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/impl/CustomerServiceImpl.class[43;1Hs[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/impl/ProductServiceImpl.class[m[45;1H[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/classes/com/stockreport/service/impl/SiteServiceImpl.class[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/maven-archiver/pom.properties[m
+[1m[36m#       [m[1m[32mnew file[m[1m[36m: [m[1m[35m  target/stocksystem-1.0-SNAPSHOT.jar[m
+[1m[36m#
+# [m[1m[34mUntracked files:[m
+[1m[36m#       [m[1m[35mmaster[m
+[1m[36m#       [m[1m[35mstockproject/[m
+[1m[36m#       [m[1m[35mtestitiedosto.txt[m
+[1m[36m#[m
+[1m[7m~/workspace/StockSystemWork/.git/COMMIT_EDITMSG [unix] (16:27 23/01/2017)      479,1 Bot[48;1H[?12l[?25h[?25l[m[55;78Hg[48;1H[?12l[?25h[?25l[55;78H [48;1H[55;78Hgi[48;1H[55;78H  [48;1H[55;1H[1m-- INSERT --[m[55;13H[K[48;1H[?12l[?25h[?25lt#[54;48H[1m[7m[+] [unix] (16:27 23/01/2017)[7C2 [48;2H[?12l[?25h[?25l[m #[54;84H[1m[7m3 [48;3H[?12l[?25h
